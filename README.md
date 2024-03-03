@@ -1,2 +1,2 @@
 # HomeApplication
- Available on https://chowdeshwarinilaya.in/
+ Demo Test Application available on https://www.chowdeshwarinilaya.in/
